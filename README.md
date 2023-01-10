@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there👋! <br>My name is Yifan Xin, I'm a full stack software engineer.<br>
+Hi there👋! My name is Yifan Xin, I'm a full stack software engineer.<br>
 
 
 ## 🌐 Socials:
