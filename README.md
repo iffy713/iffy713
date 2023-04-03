@@ -9,7 +9,7 @@ Hi there👋! My name is Yifan Xin, I'm a hello-world printer.<br>
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css&theme=light)](https://skillicons.dev)
 
 ## Front-end Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=react,angular,bootstrap,redux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,angular,bootstrap&theme=light)](https://skillicons.dev)
 
 
 ## Backend Frameworks & Tools
