@@ -1,9 +1,8 @@
 # 💫 About Me:
 Hi there👋! My name is Yifan Xin, I'm a hello-world printer.<br>
 
-
-## 🌐 Let's Connect!:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yifan-xin) 
+# 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yifan-xin)<br>
 
 # 💻 Tech Stack:
 ## Languages
