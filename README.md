@@ -3,7 +3,7 @@ Hi there👋! My name is Yifan Xin, I'm a hello-world printer.<br>
 
 # 🌐 Let's Connect:
 
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/yifan-xin/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
