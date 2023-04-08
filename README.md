@@ -2,11 +2,16 @@
 Hi there👋! My name is Yifan Xin, I'm a hello-world printer.<br>
 
 # 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yifan-xin)<br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
 
 # 💻 Tech Stack:
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css&theme=light)](https://skillicons.dev)
+
 
 ## Front-end Frameworks & Tools
 [![My Skills](https://skillicons.dev/icons?i=react,redux,angular,bootstrap&theme=light)](https://skillicons.dev)
