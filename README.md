@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there👋! My name is Yifan Xin, I'm a software engineer.<br>
+Hi there👋! My name is Yifan Xin, I am a software engineer.<br>
 
 # 🌐 Let's Connect:
 
