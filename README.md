@@ -23,16 +23,6 @@ Hi there👋! My name is Yifan Xin, I am a software engineer.<br>
 ## DevOps Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git&theme=light)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iffy713&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iffy713&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iffy713&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iffy713&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 ---
