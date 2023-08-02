@@ -10,7 +10,7 @@ Hi there👋! My name is Yifan Xin, I am a software engineer.<br>
 
 # 💻 Tech Stack:
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,dart,html,css&theme=light)](https://skillicons.dev)
 
 
 ## Front-end Frameworks & Tools
